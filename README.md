@@ -13,4 +13,4 @@ This generates several files, one of them a .txt file containing the information
 
 Use ReadKinectXEFToolsDataGH to read the files and extract the information
 
-![alt text](https://github.com/GuillermoDiazSM/pyKinectJoints/images/depth_values.png?raw=true)
+![What is this](images/depth_values.png)
