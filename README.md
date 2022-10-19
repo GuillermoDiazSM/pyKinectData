@@ -12,3 +12,5 @@ Execute xefextract from KinectXEFTools repository:
 This generates several files, one of them a .txt file containing the information of the skeleton points.
 
 Use ReadKinectXEFToolsDataGH to read the files and extract the information
+
+![alt text](https://github.com/GuillermoDiazSM/pyKinectJoints/images/depth_values.png?raw=true)
