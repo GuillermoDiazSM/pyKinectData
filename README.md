@@ -14,5 +14,9 @@ This generates several files, one of them a .txt file containing the information
 Use ReadKinectXEFToolsDataGH to read the files and extract the information
 
 ![What is this](images/df_complet.png)
+
 ![What is this](images/global_joints_coordinates.png)
+
 ![What is this](images/depth_values.png)
+
+![What is this](images/real_pos.png)
