@@ -11,4 +11,4 @@ Execute xefextract from KinectXEFTools repository:
 
 This generates several files, one of them a .txt file containing the information of the skeleton points.
 
-Use ReadKinectXEFTollsDataGH to read the files and extract the information
+Use ReadKinectXEFToolsDataGH to read the files and extract the information
