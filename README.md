@@ -9,9 +9,7 @@ Execute xefextract from KinectXEFTools repository:
 
 (base) C:\path_to_repository\KinectXEFTools-master\examples\XEFExtract\bin\Release\netcoreapp2.1\win10-x64>xefextract C:\path_to_xef_file\record.xef
 
-This generates several files, one of them a .txt file containing the information of the skeleton points.
-
-Use ReadKinectXEFToolsDataGH to read the files and extract the information
+This generates several files, use ReadKinectXEFToolsDataGH to read the .txt and .dat files and extract the information
 
 ![What is this](images/df_complet.png)
 
