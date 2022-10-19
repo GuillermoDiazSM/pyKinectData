@@ -1,5 +1,5 @@
 # pyKinectJoints
-Obtain joints data from .xef files recorded with Kinect v2
+Obtain joints  and other data from .xef files recorded with Kinect v2
 
 For extract data from Kinect v2, read the .xef record file from Kinect Studio 2.0 with KinectXEFTools https://github.com/Isaac-W/KinectXEFTools
 
