@@ -1,6 +1,8 @@
 # pyKinectData
 Obtain joints  and other data from .xef files recorded with Kinect v2
 
+Code used in the paper "Automatic Ankle Angle Detection by Integrated RGB and Depth Camera System", https://www.mdpi.com/1424-8220/21/5/1909
+
 For extract data from Kinect v2, read the .xef record file from Kinect Studio 2.0 with KinectXEFTools https://github.com/Isaac-W/KinectXEFTools
 
 Example in Windows:
